@@ -1,1 +1,1 @@
-React Weather Application
+BoilerPlate React App
